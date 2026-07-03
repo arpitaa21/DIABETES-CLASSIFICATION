@@ -380,14 +380,6 @@ Embedded in the app:
 
 ---
 
-## 👥 Team & Credits
-
-**Developed By:** Group 2  
-**Project:** Diabetes Risk Prediction Using Machine Learning  
-**Course:** MLC Class Project  
-**Technology:** Streamlit + Python ML Stack  
-
----
 
 ## 📞 Support
 
@@ -413,7 +405,7 @@ Your professional healthcare AI dashboard is ready to use!
 
 **To start the app:**
 ```bash
-cd "d:\MLC CLASS PROJECT 2"
+cd "d:\MLC PROJECT"
 streamlit run app.py
 ```
 
