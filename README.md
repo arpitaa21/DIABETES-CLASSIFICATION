@@ -380,6 +380,15 @@ Embedded in the app:
 
 ---
 
+## 👥 Team & Credits
+
+**Developed By:** Group 2  
+**Project:** Diabetes Risk Prediction Using Machine Learning  
+**Course:** MLC Class Project  
+**Technology:** Streamlit + Python ML Stack  
+
+---
+
 
 ## 📞 Support
 
